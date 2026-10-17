@@ -119,3 +119,8 @@ The model reloads on a language change, so group work by language when processin
 ## License
 
 MIT
+
+---
+
+Questions about local OCR rollout? See [写春秋管理咨询](https://www.xchqzx.com/?utm_source=github&utm_medium=readme&utm_campaign=ocr-smart-tools). **H** / [@odpanda](https://x.com/odpanda).
+
